@@ -90,7 +90,7 @@
 // counting()
 
 
-// **********QUESTION 9**********
+// **********QUESTION 8**********
 
 // function Hypotenuse() {
 //     var massage = alert("Calculate Hypotenuse of Right Angle Triangle")
