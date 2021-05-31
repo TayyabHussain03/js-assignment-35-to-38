@@ -26,3 +26,26 @@
 //     alert(addition)
 // }
 // add()
+
+
+// ********** QUESTION 4 **********
+
+// var num1 = +prompt("Enter First Number Here")
+// var num2 = +prompt("Enter Second Number Here")
+// var operator = prompt("Select Operator (*, +, -, /")
+
+// function calc() {
+//     if (operator === "*") {
+//         alert(num1 * num2)
+//     }
+//     else if (operator === "+") {
+//         alert(num1 + num2)
+//     }
+//     else if (operator === "-") {
+//         alert(num1 - num2)
+//     }
+//     else if (operator === "/") {
+//         alert(num1 / num2)
+//     }
+// }
+// calc()
