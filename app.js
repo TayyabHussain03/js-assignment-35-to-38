@@ -88,3 +88,16 @@
 //     }
 // }
 // counting()
+
+
+// **********QUESTION 9**********
+
+// function Hypotenuse() {
+//     var massage = alert("Calculate Hypotenuse of Right Angle Triangle")
+//     var base = +prompt("Enter Base of Right Angle Triangle Here")
+//     var per = +prompt("Enter Perpendicular of Right Angle Triangle Here")
+//     var hyp = base ** 2 + per ** 2
+//     var hyp = Math.sqrt(hyp)
+//     alert("The Hypotenuse of Right Angle Triangle is " + hyp)
+// }
+// Hypotenuse()
