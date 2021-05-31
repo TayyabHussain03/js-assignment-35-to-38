@@ -101,3 +101,14 @@
 //     alert("The Hypotenuse of Right Angle Triangle is " + hyp)
 // }
 // Hypotenuse()
+
+
+// **********QUESTION 9**********
+
+// function Area() {
+//     var width = +prompt("Enter Width of a Rectangle")
+//     var height = +prompt("Enter Height of a Rectangle")
+//     var area = width * height
+//     alert("The Area of Rectangle is " + area)
+// }
+// Area()
