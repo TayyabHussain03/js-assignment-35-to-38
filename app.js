@@ -59,3 +59,32 @@
 //     alert("The Square of " + num + " is " + squareNumber)
 // }
 // square()
+
+
+// **********QUESTION 6**********
+
+// var num = +prompt("Enter Factorial Number here")
+
+// function factor() {
+//     if (num === 0 || num === 1) {
+//         alert("The Factorial of " + num + " is 1")
+//     }
+// for (var i = num -1 ; i >= 1 ; i--){
+//     num = num * i
+//     alert(num)
+// }
+// }
+// factor()
+
+
+// **********QUESTION 7**********
+
+// var num1 = +prompt("What is the Number Where You Want to start Counting")
+// var num2 = +prompt("What is the Number Where You Want to end Counting")
+
+// function counting(){
+//     for(i = num1 ; i <= num2 ; i++ ){
+//         document.write("<h4>" + i + "</h4>")
+//     }
+// }
+// counting()
