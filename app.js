@@ -49,3 +49,13 @@
 //     }
 // }
 // calc()
+
+
+// **********QUESTION 5**********
+
+// function square() {
+//     var num = +prompt("Enter any number Here")
+//     var squareNumber = num ** 2
+//     alert("The Square of " + num + " is " + squareNumber)
+// }
+// square()
