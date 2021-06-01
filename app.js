@@ -69,10 +69,10 @@
 //     if (num === 0 || num === 1) {
 //         alert("The Factorial of " + num + " is 1")
 //     }
-// for (var i = num -1 ; i >= 1 ; i--){
-//     num = num * i
+//     for (var i = num - 1; i >= 1; i--) {
+//         num = num * i
+//     }
 //     alert(num)
-// }
 // }
 // factor()
 
