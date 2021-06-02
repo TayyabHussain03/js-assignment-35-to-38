@@ -134,3 +134,21 @@
 // }
 
 // checkPalindrome(input)
+
+
+// **********QUESTION 12**********
+
+// function getLongestWord(word) {
+//     var longest = "";
+//     var split = word.split(" ");
+//     for (var i = 0; i < split.length; i++) {
+//         if (split[i].length > longest.length) {
+//             longest = split[i]
+//         }
+//     }
+//     return longest;
+
+// }
+
+// var result1 = getLongestWord("Web Development Tutorial")
+// console.log(result1)
