@@ -184,3 +184,13 @@
 // }
 
 // console.log(characterCounter("JSResourceS.com", "o"))
+
+
+// **********QUESTION 14a**********
+
+// var input = +prompt("Enter Radius of the Circle")
+// function calcCircumference(){
+//     var circumference = 2*Math.PI*input
+//     console.log("Cicumference of the Circle is " + circumference)
+// }
+// calcCircumference()
