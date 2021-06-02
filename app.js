@@ -194,3 +194,12 @@
 //     console.log("Cicumference of the Circle is " + circumference)
 // }
 // calcCircumference()
+
+
+// **********QUESTION 14b**********
+
+// function area(){
+//     var areaCalc = Math.PI*(input**2)
+//     console.log("Area of the Circle is " + areaCalc)
+// }
+// area()
