@@ -112,3 +112,25 @@
 //     alert("The Area of Rectangle is " + area)
 // }
 // Area()
+
+
+// **********QUESTION 10**********
+
+// var input = prompt("Enter Any Word Here to check it is Palindrome or Not")
+
+// function checkPalindrome(str) {
+//     var valuesSplit = input.split('')
+//     var reverseValues = valuesSplit.reverse()
+//     var reverseString = reverseValues.join('')
+
+//     if (input === reverseString) {
+//         alert("This word is Palindrome")
+//     }
+
+//     else if (input != reverseString) {
+//         alert("It is not Palindrome Word")
+//     }
+
+// }
+
+// checkPalindrome(input)
