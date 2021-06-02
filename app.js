@@ -168,3 +168,19 @@
 //   return newarray1.join(' ');
 // }
 // console.log(uppercase("the quick brown fox"));
+
+
+
+// **********QUESTION 13**********
+
+// function characterCounter(string, letter) {
+//     var countLetter = 0
+//     for (var position = 0; position <= string.length; position++) {
+//         if (string.charAt(position) == letter) {
+//             countLetter++
+//         }
+//     }
+//     return countLetter
+// }
+
+// console.log(characterCounter("JSResourceS.com", "o"))
